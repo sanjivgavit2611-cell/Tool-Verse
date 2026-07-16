@@ -15,31 +15,11 @@
 <img src="assets/banner.png" alt="Tool Verse Banner" width="100%"/>
 -->
 
-[
-
-![Stars](https://img.shields.io/github/stars/sanjivgavit2611-cell/Tool-Verse?style=for-the-badge&color=gold&labelColor=1a1a1a)
-
-](https://github.com/sanjivgavit2611-cell/Tool-Verse/stargazers)
-[
-
-![Forks](https://img.shields.io/github/forks/sanjivgavit2611-cell/Tool-Verse?style=for-the-badge&color=blue&labelColor=1a1a1a)
-
-](https://github.com/sanjivgavit2611-cell/Tool-Verse/network/members)
-[
-
-![Issues](https://img.shields.io/github/issues/sanjivgavit2611-cell/Tool-Verse?style=for-the-badge&color=orange&labelColor=1a1a1a)
-
-](https://github.com/sanjivgavit2611-cell/Tool-Verse/issues)
-[
-
-![License](https://img.shields.io/github/license/sanjivgavit2611-cell/Tool-Verse?style=for-the-badge&color=green&labelColor=1a1a1a)
-
-](LICENSE)
-[
-
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&labelColor=1a1a1a)
-
-](CONTRIBUTING.md)
+[![Stars](https://img.shields.io/github/stars/sanjivgavit2611-cell/Tool-Verse?style=for-the-badge&color=gold&labelColor=1a1a1a)](https://github.com/sanjivgavit2611-cell/Tool-Verse/stargazers)
+[![Forks](https://img.shields.io/github/forks/sanjivgavit2611-cell/Tool-Verse?style=for-the-badge&color=blue&labelColor=1a1a1a)](https://github.com/sanjivgavit2611-cell/Tool-Verse/network/members)
+[![Issues](https://img.shields.io/github/issues/sanjivgavit2611-cell/Tool-Verse?style=for-the-badge&color=orange&labelColor=1a1a1a)](https://github.com/sanjivgavit2611-cell/Tool-Verse/issues)
+[![License](https://img.shields.io/github/license/sanjivgavit2611-cell/Tool-Verse?style=for-the-badge&color=green&labelColor=1a1a1a)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&labelColor=1a1a1a)](CONTRIBUTING.md)
 
 **[Explore Categories](#-categories)** • **[Contribute](#-contributing)** • **[Roadmap](#-roadmap)**
 
@@ -192,11 +172,7 @@ Creator & Maintainer
 
 ## ⭐ Star History
 
-[
-
-![Star History Chart](https://api.star-history.com/svg?repos=sanjivgavit2611-cell/Tool-Verse&type=Date)
-
-](https://star-history.com/#sanjivgavit2611-cell/Tool-Verse&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=sanjivgavit2611-cell/Tool-Verse&type=Date)](https://star-history.com/#sanjivgavit2611-cell/Tool-Verse&Date)
 
 ---
 
